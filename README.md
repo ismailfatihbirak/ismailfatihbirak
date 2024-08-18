@@ -5,9 +5,9 @@ I am an Android developer. I work with tools and frameworks such as Kotlin, Retr
 ## 🛠️ Technologies I Use
 
 - **Languages:** Kotlin, Java
-- **Ui:** Jetpack Compose
-- **Libraries:** Retrofit, Coroutines, Flow, Room, Hilt
-- **Architecture:** MVVM, Clean Architecture
+- **Ui:** Jetpack Compose, Xml
+- **Libraries:** Retrofit, Coroutines, Flow, Room, Hilt, Livedata, StateFlow
+- **Architecture:** MVVM, Clean Architecture, Multi Module
 - **Backend and Cloud Services:** Firebase (Authentication, Firestore, Storage)
 - **Other Tools:** Git, GitHub, Gradle, Android Studio
 
