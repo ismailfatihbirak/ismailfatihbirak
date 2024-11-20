@@ -13,5 +13,5 @@ I am an Android developer. I work with tools and frameworks such as Kotlin, Retr
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailfatihbirak&show_icons=true&locale=en&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailfatihbirak&show_icons=true&locale=en&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailfatihbirak&layout=compact&theme=radical)
