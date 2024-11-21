@@ -6,12 +6,12 @@ I am an Android developer. I work with tools and frameworks such as Kotlin, Retr
 
 - **Languages:** Kotlin, Java
 - **Ui:** Jetpack Compose, Xml
-- **Libraries:** Retrofit, Coroutines, Flow, Room, Hilt, Livedata, StateFlow
+- **Libraries:** Retrofit, Coroutines, Flow, Room, Hilt, Livedata, StateFlow, Workmanager
 - **Architecture:** MVVM, Clean Architecture, Multi Module
 - **Backend and Cloud Services:** Firebase (Authentication, Firestore, Storage)
 - **Other Tools:** Git, GitHub, Gradle, Android Studio
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailfatihbirak&show_icons=true&locale=en&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailfatihbirak&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailfatihbirak&show_icons=true&locale=en&)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailfatihbirak&layout=compact&)
